@@ -131,20 +131,20 @@ $lang['mail_automatic_message_warning'] = "Bitte antworten Sie nicht auf diese E
 $lang['form_not_logged'] = "Sie sind nicht eingeloggt.";
 
 $lang['form_alert_success_title'] = 'Erfolg!';
-$lang['form_alert_success_message'] = 'Daten wurden erfoglreich übermittelt!';
+$lang['form_alert_success_message'] = 'Daten wurden erfolgreich übermittelt!';
 $lang['form_alert_error_title'] = 'Hoppala! Etwas ist schiefgelaufen!';
 $lang['form_alert_error_message'] = 'Überprüfen Sie Ihre Angaben, warscheinlich fehlt etwas ...';
 
 $lang['form_login_success_message'] = "Erfolgreich eingeloggt.";
-$lang['form_login_error_message'] = "Fehler : Überprüfen SIe Ihren Benutzernamen und Ihr Passwort.";
-$lang['form_login_not_found_message'] = "Benutername nich gefunden.";
+$lang['form_login_error_message'] = "Fehler : Überprüfen Sie Ihren Benutzernamen und Ihr Passwort.";
+$lang['form_login_not_found_message'] = "Benutzername nicht gefunden.";
 $lang['form_login_not_activated_message'] = "Dieser Benutzeraccount wurde noch nicht aktiviert. Durchsuchen Sie Ihren Posteingang nach der Mail mit dem Aktivierungslink.";
 
 $lang['form_register_success_message'] = "Sie wurden erfolgreich registriet.<br/>Wir haben soeben eine E-Mail mit weiteren Anweisungen zur Aktivirung des Kontos an Ihre Adresse gesendet.";
-$lang['form_register_error_message'] = "Fehler: registrirung nicht erfolgreich.";
+$lang['form_register_error_message'] = "Fehler: Registrierung nicht erfolgreich.";
 
 $lang['form_profile_success_message'] = "Profil gespeichert";
-$lang['form_profile_error_message'] = "Dieser Benutzer existiert bereits. Bitte einen anderen Benutzernamen oder E-Mail verwenden.";
+$lang['form_profile_error_message'] = "Dieser Benutzer existiert bereits. Bitte einen anderen Benutzernamen oder eine andere E-Mail Adresse verwenden.";
 $lang['form_profile_account_deleted'] = "Konto gelöscht";
 
 $lang['form_password_error_message'] = "Hoppala, es ist ein Fehler aufgetreten.";
@@ -153,8 +153,8 @@ $lang['form_password_success_message'] = "Eine E-Mail mit dem neuen Passwort wur
 
 $lang['form_contact_error_title'] = 'Hoppala, es ist ein Fehler aufgetreten.';
 $lang['form_contact_error_message'] = 'vermutlich wurde ein Feld nicht ausgefüllt. Überprüfen sie Bitte das Formular ...';
-$lang['form_contact_success_title'] = 'Ihre nachricht wurde erfolgreich abgesendet!';
-$lang['form_contact_success_message'] = 'Vielen Dank für Ihre Nachricht, wir werden sobald als möglich antowrten!';
+$lang['form_contact_success_title'] = 'Ihre Nachricht wurde erfolgreich abgesendet!';
+$lang['form_contact_success_message'] = 'Vielen Dank für Ihre Nachricht, wir werden sobald als möglich antworten!';
 
 $lang['form_note_password_change'] = 'Leer lassen, wenn das Passwort nicht geändert werden soll';
 
