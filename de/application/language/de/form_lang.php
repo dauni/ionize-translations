@@ -23,8 +23,8 @@ $lang['form_label_email'] = 'E-Mail';
 $lang['form_label_name'] = 'Name';
 $lang['form_label_firstname'] = 'Vorname';
 $lang['form_label_lastname'] = 'Nachname';
-$lang['form_label_subject'] = 'betreff';
-$lang['form_label_message'] = 'nachricht';
+$lang['form_label_subject'] = 'Betreff';
+$lang['form_label_message'] = 'Nachricht';
 $lang['form_label_screen_name'] = 'Anzeigename';
 $lang['form_label_username'] = 'Benutzername';
 $lang['form_label_birthdate'] = 'Geburtsdatum';
@@ -67,7 +67,7 @@ $lang['form_placeholder_country'] = 'Land eingeben';
 $lang['form_placeholder_city'] = 'Stadt eingeben';
 $lang['form_placeholder_state'] = 'Staat eingeben';
 $lang['form_placeholder_zip'] = 'Postleitzahl eingeben';
-$lang['form_placeholder_login'] = 'Benutezrname eingeben';
+$lang['form_placeholder_login'] = 'Benutzername eingeben';
 $lang['form_placeholder_password'] = 'Passwort eingeben';
 
 
@@ -131,7 +131,7 @@ $lang['mail_automatic_message_warning'] = "Bitte antworten Sie nicht auf diese E
 $lang['form_not_logged'] = "Sie sind nicht eingeloggt.";
 
 $lang['form_alert_success_title'] = 'Erfolg!';
-$lang['form_alert_success_message'] = 'Alles in Ordnung!';
+$lang['form_alert_success_message'] = 'Daten wurden erfoglreich übermittelt!';
 $lang['form_alert_error_title'] = 'Hoppala! Etwas ist schiefgelaufen!';
 $lang['form_alert_error_message'] = 'Überprüfen Sie Ihre Angaben, warscheinlich fehlt etwas ...';
 
